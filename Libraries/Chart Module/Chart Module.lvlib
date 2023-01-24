@@ -21,6 +21,7 @@
 			<Item Name="Broadcast" Type="Folder"/>
 		</Item>
 		<Item Name="Requests" Type="Folder">
+			<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show UI Module.vi" Type="VI" URL="../Show UI Module.vi"/>
 			<Item Name="Hide Module.vi" Type="VI" URL="../Hide Module.vi"/>
@@ -28,7 +29,6 @@
 			<Item Name="Send Value.vi" Type="VI" URL="../Send Value.vi"/>
 			<Item Name="Clear Chart.vi" Type="VI" URL="../Clear Chart.vi"/>
 		</Item>
-		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -42,6 +42,7 @@
 		<Item Name="Handle Exit.vi" Type="VI" URL="../Handle Exit.vi"/>
 		<Item Name="Show Vi Panel.vi" Type="VI" URL="../Show Vi Panel.vi"/>
 		<Item Name="Hide Panel.vi" Type="VI" URL="../Hide Panel.vi"/>
+		<Item Name="Update Chart Title.vi" Type="VI" URL="../Update Chart Title.vi"/>
 		<Item Name="Module Name--constant.vi" Type="VI" URL="../Module Name--constant.vi"/>
 		<Item Name="Module Data--cluster.ctl" Type="VI" URL="../Module Data--cluster.ctl"/>
 		<Item Name="Chart.vi" Type="VI" URL="../../../../../../Users/medin/Downloads/Temp/Testing LV/Chart.vi"/>
